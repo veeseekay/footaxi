@@ -9,7 +9,6 @@ A simple API built using Express that simulats a taxi service's basic operations
       -m server.js -b /footaxi
 
 Where:
-
 * USERNAME: Your Apigee user name
 * PASSWORD: Your Apigee password
 * ORG: Your Apigee organization name
@@ -22,3 +21,7 @@ Where:
 
 # Postman collections:
 https://www.getpostman.com/collections/8885a957964e541d317a
+
+# TODO
+* Error scenarios
+* Tests
