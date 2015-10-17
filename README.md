@@ -22,6 +22,10 @@ Where:
 # Postman collections:
 https://www.getpostman.com/collections/8885a957964e541d317a
 
+# Apiary documentation:
+http://docs.footaxi.apiary.io/
+
 # TODO
+* Input validations
 * Error scenarios
 * Tests
